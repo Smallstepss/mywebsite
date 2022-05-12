@@ -93,6 +93,9 @@ clear:right;
   bottom: 300px;
   left:350px;
 }
+.giphy{
+  background-size: cover;
+}
 .profile{
   padding:30px;
 }

@@ -94,7 +94,9 @@ clear:right;
   left:350px;
 }
 .giphy{
-  background-size: cover;
+  max-width: 100%; 
+    width: auto; 
+    height: auto;
 }
 .profile{
   padding:30px;
